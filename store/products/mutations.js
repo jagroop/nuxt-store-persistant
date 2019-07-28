@@ -4,7 +4,9 @@ export default {
     var index = state.cartItems.findIndex(cartItem => cartItem.id == product.id)
     if(index === -1) {
       state.cartItems.push(product)      
-    }  
+    } else {
+      state.cartItems[index] = product
+    }
   },
   
   decQty (state, product) {
