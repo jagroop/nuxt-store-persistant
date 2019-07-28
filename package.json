@@ -1,0 +1,14 @@
+{
+  "name": "example-hello-world",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "nuxt": "latest",
+    "vuex-persistedstate": "^2.5.4"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "post-update": "yarn upgrade --latest"
+  }
+}
