@@ -32,3 +32,11 @@ export default {
   ],
 }
 ```
+
+Note: I was using [json-server](https://github.com/typicode/json-server) for this demo
+
+```bash
+json-server --watch db.json --port 3004
+```
+
+Check db.json file....
