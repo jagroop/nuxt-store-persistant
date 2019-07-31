@@ -15,5 +15,13 @@
     { "id": 841, "title": "Holocephala", "price": 81, "qty": 0 },
     { "id": 961, "title": "Januslike", "price": 14, "qty": 0 },
     { "id": 631, "title": "digestiveness", "price": 97, "qty": 0 }
+  ],
+  "customers": [
+    { "id": 901, "name": "Merissa" },
+    { "id": 361, "name": "Leora" },
+    { "id": 31, "name": "Delfina" },
+    { "id": 991, "name": "Ellis" },
+    { "id": 3451, "name": "Young" },
+    { "id": 441, "name": "Alyssa" }
   ]
 }

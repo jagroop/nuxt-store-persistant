@@ -18,5 +18,9 @@ export default {
     if(product.qty <= 0) {
       state.cartItems.splice(index, 1)
     }
+  },
+
+  setCustomer(state, customer) {
+    state.customer = customer
   }
 }
