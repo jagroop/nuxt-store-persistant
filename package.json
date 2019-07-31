@@ -3,6 +3,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.5.4",
     "nuxt": "latest",
+    "nuxt-vue-multiselect": "^1.0.4",
     "vuex-persistedstate": "^2.5.4"
   },
   "scripts": {

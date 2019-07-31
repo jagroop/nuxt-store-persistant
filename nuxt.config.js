@@ -3,5 +3,6 @@ export default {
 
   modules: [
     '@nuxtjs/axios',
+    'nuxt-vue-multiselect',
   ],
 }
